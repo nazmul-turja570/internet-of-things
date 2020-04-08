@@ -1,2 +1,6 @@
-# internet-of-things
-This repository presents all the works I have done for my thesis and other projects related to Internet of Things
+# internet of things
+
+IoT based Home Automation: Home automation or sensible home may be delineated as introduction of technology within the home atmosphere to provide ease and protection to its occupants. By using the technology of the Internet of Things, the examination and execution of home automation have got additional average. Various wireless technologies which is able to support some sort of remote knowledge transfer, sensing and management like Bluetooth, Wi-Fi and cellular networks are used to enter abundant levels of acumen within the home. Home automation for the older and disabled will offer raised quality of life for persons. It may provide an interface to home appliances or the automation system itself, via telephone line or the internet, to supply management and observance via a smart phone or personal computer.
+
+
+IoT based Waste Management System: Here we have IoT based prototype with sensors to measure the waste volume in containers or wastebins, with facility to transmit information over the Internet. The system is simulated in for the city of Dhaka, using Firebase real time database. The simulation covers a period of one week to model wastebin filling and waste collection. Their simulations are done for performing an efficiency comparison of different ways for collection of wastes: Traditional method and dynamic on-demand solution, proposed work (intelligent) for several cases.
